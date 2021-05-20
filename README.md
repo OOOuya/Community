@@ -117,7 +117,7 @@ springboot内置整合了tomcat，因此我们不需要再配置factes、artifac
    >
    > [IDEA配置GIT](https://www.cnblogs.com/hkgov/p/7694101.html)
    >
-   > token : `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`
+   > 生成token：[首次使用git，生成token_](https://blog.csdn.net/qq_43103581/article/details/103203605)
 
    
 
@@ -161,4 +161,4 @@ springboot内置整合了tomcat，因此我们不需要再配置factes、artifac
    git commit --amend --no-edit
    ```
 
-   
+   这个文件中有token
